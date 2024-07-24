@@ -1,0 +1,14 @@
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/bin/Debug/net8.0/AssignmentC
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/bin/Debug/net8.0/AssignmentC.deps.json
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/bin/Debug/net8.0/AssignmentC.runtimeconfig.json
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/bin/Debug/net8.0/AssignmentC.dll
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/bin/Debug/net8.0/AssignmentC.pdb
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/AssignmentC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/AssignmentC.AssemblyInfoInputs.cache
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/AssignmentC.AssemblyInfo.cs
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/AssignmentC.csproj.CoreCompileInputs.cache
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/AssignmentC.dll
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/refint/AssignmentC.dll
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/AssignmentC.pdb
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/AssignmentC.genruntimeconfig.cache
+/Users/truongnx/RiderProjects/AssignmentC/AssignmentC/obj/Debug/net8.0/ref/AssignmentC.dll
