@@ -14,4 +14,4 @@ string input = Console.ReadLine();
 Console.WriteLine("Enter a word to search in string");
 string searchWord = Console.ReadLine();
 int count = countIndex.countString(input, searchWord);
-Console.WriteLine(count);
+Console.WriteLine("Word found"+ count + "times in the string");
